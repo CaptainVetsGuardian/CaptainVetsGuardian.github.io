@@ -1,4 +1,3 @@
-# Welcome to Veterans Guardian
+# Welcome to Veterans Guardian's Git!
 
-<h1>Welcome to Veterans Guardian's Git!</h1>
 
